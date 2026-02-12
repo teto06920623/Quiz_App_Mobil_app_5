@@ -8,7 +8,7 @@ A dynamic and interactive Quiz Application built with **Flutter**. This project 
 |
 
   <tr>
-    <td style="border: none;"><img width="300" alt="(quiz app)" src="https://github.com/user-attachments/assets/ed1822c0-acb7-426c-a364-85e7c95744d3" /></td>
+    <td style="border: none;"><img width="500" alt="(quiz app)" src="https://github.com/user-attachments/assets/ed1822c0-acb7-426c-a364-85e7c95744d3" /></td>
   </tr>
 </table>
 |
