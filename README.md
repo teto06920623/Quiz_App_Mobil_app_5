@@ -12,7 +12,6 @@ A dynamic and interactive Quiz Application built with **Flutter**. This project 
   </tr>
 </table>
 |
-| ![Splash](path/to/splash.png) | ![Quiz](path/to/quiz.png) | ![Result](path/to/result.png) |
 
 ## ✨ Features
 
