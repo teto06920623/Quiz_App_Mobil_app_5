@@ -6,8 +6,11 @@ A dynamic and interactive Quiz Application built with **Flutter**. This project 
 
 | Splash Screen | Quiz Screen | Score Dialog |
 |
-<img width="2557" height="1446" alt="(quiz app)" src="https://github.com/user-attachments/assets/ed1822c0-acb7-426c-a364-85e7c95744d3" />
 
+  <tr>
+    <td style="border: none;"><img width="300" alt="(quiz app)" src="https://github.com/user-attachments/assets/ed1822c0-acb7-426c-a364-85e7c95744d3" /></td>
+  </tr>
+</table>
 |
 | ![Splash](path/to/splash.png) | ![Quiz](path/to/quiz.png) | ![Result](path/to/result.png) |
 
